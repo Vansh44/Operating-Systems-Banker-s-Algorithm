@@ -27,9 +27,13 @@ Safe and Unsafe States:
 ● The concept of safe and unsafe states is central to the Banker's Algorithm. The IsSafe functiondeterminesifthecurrentresourceallocationleadstoasafestate where all processes can complete without causing a deadlock.
 System Calls and Input Handling:
 ● The code uses standard input and output for reading resource and process information. This simulates system calls that processes use to request resources from the OS
+
+
 INPUT-
 
 <img width="569" alt="Screenshot 2024-07-20 at 11 07 55 PM" src="https://github.com/user-attachments/assets/ee5fedbc-d2b2-41e0-b9d8-50fbe3d73daa">
+
+
 OUTPUT-
 
 
