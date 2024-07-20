@@ -28,10 +28,12 @@ Safe and Unsafe States:
 System Calls and Input Handling:
 ● The code uses standard input and output for reading resource and process information. This simulates system calls that processes use to request resources from the OS
 
-INPUT-
-<img width="569" alt="Screenshot 2024-07-20 at 11 07 55 PM" src="https://github.com/user-attachments/assets/ee5fedbc-d2b2-41e0-b9d8-50fbe3d73daa">
 
-OUTPUT-
+<img width="569" alt="Screenshot 2024-07-20 at 11 07 55 PM" src="https://github.com/user-attachments/assets/ee5fedbc-d2b2-41e0-b9d8-50fbe3d73daa">
+INPUT-
+
+
 <img width="548" alt="Screenshot 2024-07-20 at 11 08 56 PM" src="https://github.com/user-attachments/assets/5ae5dbb2-658b-41fc-8f92-59b83f54a797">
+OUTPUT-
 
 
